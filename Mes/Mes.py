@@ -134,4 +134,8 @@ def docGlue(numDocX):
     numberR(resultX, correctName)
 
 # docMes("Testing.txt")
+# docMes("TestingNumNumtxt.txt")
+# docMes("TestingNumNumtxtNumNumtxt.txt")
+# docMes("TestingNumNumtxtNumNumtxtNumNumtxt.txt")
+# docMes("TestingNumNumtxtNumNumtxtNumNumtxtNumNumtxt.txt")
 # docGlue("TestingNumNumtxt.txt")
